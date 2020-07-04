@@ -10,7 +10,7 @@
     <message>
         <location filename="../AboutDialog.ui" line="14"/>
         <source>About DB Browser for SQLite</source>
-        <translation type="unfinished"></translation>
+        <translation>關於 DB Browser for SQLite</translation>
     </message>
     <message>
         <location filename="../AboutDialog.ui" line="47"/>
@@ -20,11 +20,11 @@
     <message>
         <location filename="../AboutDialog.ui" line="102"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;DB Browser for SQLite is an open source, freeware visual tool used to create, design and edit SQLite database files.&lt;/p&gt;&lt;p&gt;It is bi-licensed under the Mozilla Public License Version 2, as well as the GNU General Public License Version 3 or later. You can modify or redistribute it under the conditions of these licenses.&lt;/p&gt;&lt;p&gt;See &lt;a href=&quot;http://www.gnu.org/licenses/gpl.html&quot;&gt;http://www.gnu.org/licenses/gpl.html&lt;/a&gt; and &lt;a href=&quot;https://www.mozilla.org/MPL/2.0/index.txt&quot;&gt;https://www.mozilla.org/MPL/2.0/index.txt&lt;/a&gt; for details.&lt;/p&gt;&lt;p&gt;For more information on this program please visit our website at: &lt;a href=&quot;http://sqlitebrowser.org&quot;&gt;http://sqlitebrowser.org&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-size:small;&quot;&gt;This software uses the GPL/LGPL Qt Toolkit from &lt;/span&gt;&lt;a href=&quot;http://qt-project.org/&quot;&gt;&lt;span style=&quot; font-size:small;&quot;&gt;http://qt-project.org/&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-size:small;&quot;&gt;&lt;br/&gt;See &lt;/span&gt;&lt;a href=&quot;http://qt-project.org/doc/qt-5/licensing.html&quot;&gt;&lt;span style=&quot; font-size:small;&quot;&gt;http://qt-project.org/doc/qt-5/licensing.html&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-size:small;&quot;&gt; for licensing terms and information.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-size:small;&quot;&gt;It also uses the Silk icon set by Mark James licensed under a Creative Commons Attribution 2.5 and 3.0 license.&lt;br/&gt;See &lt;/span&gt;&lt;a href=&quot;http://www.famfamfam.com/lab/icons/silk/&quot;&gt;&lt;span style=&quot; font-size:small;&quot;&gt;http://www.famfamfam.com/lab/icons/silk/&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-size:small;&quot;&gt; for details.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head&gt;&lt;body&gt;&lt;p&gt;DB Browser for SQLite 是個開放原始碼且免費的視覺化工具，可用來建立、設計及編輯 SQLite 資料庫檔案。&lt;/p&gt;&lt;p&gt;其授權以 Mozilla Public License Version 2 及 GNU General Public License Version 3 or later 兩個為基礎。您可遵循這些授權條款的條件修改並重散布。&lt;/p&gt;&lt;p&gt;如需深入了解，請參考 &lt;a href=http://www.gnu.org/licenses/gpl.html&gt;http://www.gnu.org/licenses/gpl.html&lt;/a&gt; 及 &lt;a href=https://www.mozilla.org/MPL/2.0/index.txt&gt;https://www.mozilla.org/MPL/2.0/index.txt&lt;/a&gt;。&lt;/p&gt;&lt;p&gt;如需此程式的更多資訊，請造訪官方網站：&lt;a href=http://sqlitebrowser.org&gt;http://sqlitebrowser.org&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=font-size:small&gt;此軟體使用來自 &lt;/span&gt;&lt;a href=http://qt-project.org/ &gt;&lt;span style=font-size:small&gt;http://qt-project.org/&lt;/span&gt;&lt;/a&gt; &lt;span style=font-size:small&gt;的 GPL/LGPL Qt Toolkit&lt;br&gt;授權條款及資訊，請參閱 &lt;/span&gt;&lt;a href=http://qt-project.org/doc/qt-5/licensing.html&gt;&lt;span style=font-size:small&gt;http://qt-project.org/doc/qt-5/licensing.html&lt;/span&gt;&lt;/a&gt;&lt;span style=font-size:small&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=font-size:small&gt;其亦使用 Mark James 所作的 Silk 圖示集，依 Creative Commons Attribution 2.5 and 3.0 授權條款授權。&lt;br&gt;詳細資訊請參閱 &lt;/span&gt;&lt;a href=http://www.famfamfam.com/lab/icons/silk/ &gt;&lt;span style=font-size:small&gt;http://www.famfamfam.com/lab/icons/silk/&lt;/span&gt;&lt;/a&gt;&lt;span style=font-size:small&gt;。&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Qt Version</source>
-        <translation type="obsolete">Qt&#x2009;版本</translation>
+        <translation type="obsolete">Qt 版本</translation>
     </message>
     <message>
         <source>SQLite Version</source>
@@ -37,27 +37,27 @@
     <message>
         <location filename="../AboutDialog.cpp" line="19"/>
         <source>SQLCipher Version %1 (based on SQLite %2)</source>
-        <translation type="unfinished"></translation>
+        <translation>SQLCipher 版本 %1 (以 SQLite %2 為基礎)</translation>
     </message>
     <message>
         <location filename="../AboutDialog.cpp" line="21"/>
         <source>Version </source>
-        <translation type="unfinished"></translation>
+        <translation>版本 </translation>
     </message>
     <message>
         <location filename="../AboutDialog.cpp" line="22"/>
         <source>Built for %1, running on %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 組建，執行於 %2</translation>
     </message>
     <message>
         <location filename="../AboutDialog.cpp" line="23"/>
         <source>Qt Version </source>
-        <translation type="unfinished"></translation>
+        <translation>Qt 版本 </translation>
     </message>
     <message>
         <location filename="../AboutDialog.cpp" line="17"/>
         <source>SQLite Version </source>
-        <translation type="unfinished"></translation>
+        <translation>SQLite 版本 </translation>
     </message>
 </context>
 <context>
@@ -65,12 +65,12 @@
     <message>
         <location filename="../AddRecordDialog.ui" line="14"/>
         <source>Add New Record</source>
-        <translation type="unfinished"></translation>
+        <translation>新增記錄</translation>
     </message>
     <message>
         <location filename="../AddRecordDialog.ui" line="27"/>
         <source>Enter values for the new record considering constraints. Fields in bold are mandatory.</source>
-        <translation type="unfinished"></translation>
+        <translation>請根據限制 (constraints) 輸入新記錄的值。粗體欄位為必填。</translation>
     </message>
     <message>
         <location filename="../AddRecordDialog.ui" line="67"/>
@@ -2460,7 +2460,7 @@ x~y	Range: values between x and y
     <message>
         <location filename="../ImportCsvDialog.ui" line="83"/>
         <source>|</source>
-        <translation>;</translation>
+        <translation>|</translation>
     </message>
     <message>
         <location filename="../ImportCsvDialog.ui" line="228"/>
@@ -2487,7 +2487,7 @@ x~y	Range: values between x and y
     <message>
         <location filename="../ImportCsvDialog.ui" line="143"/>
         <source>&quot;</source>
-        <translation>;</translation>
+        <translation>&quot;</translation>
     </message>
     <message>
         <location filename="../ImportCsvDialog.ui" line="148"/>
